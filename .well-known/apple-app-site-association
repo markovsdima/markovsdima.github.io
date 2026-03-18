@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "TEAMID.com.markovsdima.Zyna",
+      "paths": ["/oidc/*"]
+    }]
+  },
+  "webcredentials": {
+    "apps": ["TEAMID.com.markovsdima.Zyna"]
+  }
+}
